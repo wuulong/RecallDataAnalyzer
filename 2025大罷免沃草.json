@@ -1,0 +1,3275 @@
+[
+  {
+    "DocumentID": "BA2025-001",
+    "Title": "2025 大罷免》為什麼要罷免傅崐萁？",
+    "Source": "沃草",
+    "Author": "何宇軒",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "傅崐萁", "國會擴權", "親中", "花蓮"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "花蓮縣",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP001",
+        "TargetPoliticianName": "傅崐萁",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "花蓮縣",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["強勢領導作風", "親中立場", "推動國會擴權法案", "刪減國防預算", "會見中共統戰頭子", "對嗆退休教師"],
+        "ReasonCategory": ["政治立場", "政策失當", "道德爭議"],
+        "MentionFrequency": 30,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["國會擴權法案", "選罷法", "憲法訴訟法", "財政收支劃分法"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "柯志恩",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "黃捷",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "對手",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "王滬寧",
+        "RelatedPersonRole": "中國政協主席",
+        "RelationshipToTarget": "外國政治人物",
+        "MentionFrequency": 4
+      },
+      {
+        "RelatedPersonName": "葉春蓮",
+        "RelatedPersonRole": "退休教師",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 6
+      },
+      {
+        "RelatedPersonName": "蕭美琴",
+        "RelatedPersonRole": "副總統",
+        "RelationshipToTarget": "前對手",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "沈伯洋",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "對手",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "張美慧",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "前對手",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "曹興誠",
+        "RelatedPersonRole": "企業家",
+        "RelationshipToTarget": "支持罷免",
+        "MentionFrequency": 1
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "立法院通過財劃法",
+        "EventDate": "2024-05-17",
+        "EventType": "法案審查",
+        "EventLocation": "立法院",
+        "EventDescription": "立法院強勢通過《財劃法》，引發爭議。",
+        "InvolvedPoliticianIDs": ["TP001"]
+      },
+      {
+        "EventName": "傅崐萁率團訪中",
+        "EventDate": "2024-04-26",
+        "EventType": "政治活動",
+        "EventLocation": "中國",
+        "EventDescription": "傅崐萁於立法院開會期間率團訪中，會見王滬寧。",
+        "InvolvedPoliticianIDs": ["TP001"]
+      },
+      {
+        "EventName": "花蓮紀念國父活動",
+        "EventDate": "2025-03-03",
+        "EventType": "政治活動",
+        "EventLocation": "花蓮",
+        "EventDescription": "傅崐萁於花蓮紀念國父活動遭葉春蓮嗆聲，葉春蓮被架離。",
+        "InvolvedPoliticianIDs": ["TP001"]
+      },
+      {
+        "EventName": "香港旅遊事件",
+        "EventDate": "2025-02",
+        "EventType": "爭議事件",
+        "EventLocation": "香港",
+        "EventDescription": "傅崐萁率團訪港，團員遭港方逮捕。",
+        "InvolvedPoliticianIDs": ["TP001"]
+      },
+      {
+        "EventName": "青鳥行動",
+        "EventDate": "2025-05",
+        "EventType": "政治活動",
+        "EventLocation": "台灣",
+        "EventDescription": "反國會擴權法案的公民抗議行動。",
+        "InvolvedPoliticianIDs": []
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-002",
+    "Title": "2025 大罷免》為什麼要罷免王鴻薇？",
+    "Source": "沃草",
+    "Author": "何宇軒",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "王鴻薇", "國會擴權", "親中", "台北市"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "台北市",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP002",
+        "TargetPoliticianName": "王鴻薇",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "台北市",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["刪減消防員預算", "參與傅崐萁統戰團", "凍結中選會預算", "親中言論", "肉搜公民"],
+        "ReasonCategory": ["政治立場", "政策失當", "道德爭議"],
+        "MentionFrequency": 20,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["國會擴權法案", "財政收支劃分法", "中配入籍法案"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "傅崐萁",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "王滬寧",
+        "RelatedPersonRole": "中國政協主席",
+        "RelationshipToTarget": "外國政治人物",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "蔣萬安",
+        "RelatedPersonRole": "台北市長",
+        "RelationshipToTarget": "同黨, 前任",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "謝佩芬",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "前對手",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "林亮君",
+        "RelatedPersonRole": "台北市議員",
+        "RelationshipToTarget": "評論者",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "阿美",
+        "RelatedPersonRole": "公民團體發言人",
+        "RelationshipToTarget": "罷免方",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "蔡卡羅",
+        "RelatedPersonRole": "公民團體成員",
+        "RelationshipToTarget": "罷免方",
+        "MentionFrequency": 2
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "刪減消防員預算提案",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "王鴻薇提案刪除消防員頭盔等裝備預算。",
+        "InvolvedPoliticianIDs": ["TP002"]
+      },
+      {
+        "EventName": "凍結中選會預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "王鴻薇提案凍結中選會預算，被質疑阻撓罷免。",
+        "InvolvedPoliticianIDs": ["TP002"]
+      },
+      {
+        "EventName": "傅崐萁立委統戰團訪中",
+        "EventDate": "2024-04-26",
+        "EventType": "政治活動",
+        "EventLocation": "中國",
+        "EventDescription": "王鴻薇參與傅崐萁立委統戰團訪中，會見王滬寧。",
+        "InvolvedPoliticianIDs": ["TP002"]
+      },
+      {
+        "EventName": "國民黨肉搜公民",
+        "EventDate": "2025",
+        "EventType": "爭議事件",
+        "EventLocation": "台灣",
+        "EventDescription": "國民黨肉搜罷免團體發言人阿美。",
+        "InvolvedPoliticianIDs": ["TP002"]
+      },
+      {
+        "EventName": "國會擴權法案推動",
+        "EventDate": "2025-05",
+        "EventType": "法案審查",
+        "EventLocation": "立法院",
+        "EventDescription": "王鴻薇參與推動國會擴權法案。",
+        "InvolvedPoliticianIDs": ["TP002"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-003",
+    "Title": "2025 大罷免》為什麼要罷免徐巧芯？",
+    "Source": "沃草",
+    "Author": "廖昱涵",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "徐巧芯", "爭議言行", "詐騙案", "台北市"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "台北市",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP003",
+        "TargetPoliticianName": "徐巧芯",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "台北市",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["家族涉詐騙", "違停爭議", "奢侈品爭議", "比中指", "罵髒話", "承認暴力行為", "凍結潛艦預算", "親中言論"],
+        "ReasonCategory": ["道德爭議", "違法行為", "政策失當", "爭議言行"],
+        "MentionFrequency": 35,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["選罷法"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "馬英九",
+        "RelatedPersonRole": "前總統",
+        "RelationshipToTarget": "提攜者",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "費鴻泰",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "黨內競爭對手",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "許淑華",
+        "RelatedPersonRole": "台北市議員",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "李坤城",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "對手",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "陳亭妃",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "對手",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "王美惠",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "對手",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "陳培瑜",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "對手",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "苗博雅",
+        "RelatedPersonRole": "台北市議員",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "黃捷",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "對手",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "劉彥澧",
+        "RelatedPersonRole": "前台中市研考會主委",
+        "RelationshipToTarget": "丈夫",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "王必勝",
+        "RelatedPersonRole": "前衛福部次長",
+        "RelationshipToTarget": "批評對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "陳時中",
+        "RelatedPersonRole": "前衛福部長",
+        "RelationshipToTarget": "批評對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "顏寬恒",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "比較對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "金溥聰",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "批評對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "傅崐萁",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "合作對象",
+        "MentionFrequency": 2
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "違停紅線事件",
+        "EventDate": "2024",
+        "EventType": "爭議事件",
+        "EventLocation": "台北市",
+        "EventDescription": "徐巧芯違停紅線遭開單，引發爭議。",
+        "InvolvedPoliticianIDs": ["TP003"]
+      },
+      {
+        "EventName": "芯費大戰",
+        "EventDate": "2024",
+        "EventType": "選舉",
+        "EventLocation": "台北市",
+        "EventDescription": "徐巧芯與費鴻泰競爭國民黨立委初選。",
+        "InvolvedPoliticianIDs": ["TP003"]
+      },
+      {
+        "EventName": "家族涉詐騙案",
+        "EventDate": "2025",
+        "EventType": "違法行為",
+        "EventLocation": "台灣",
+        "EventDescription": "徐巧芯夫家涉嫌詐騙及洗錢，遭檢調偵辦。",
+        "InvolvedPoliticianIDs": ["TP003"]
+      },
+      {
+        "EventName": "比中指事件",
+        "EventDate": "2025",
+        "EventType": "爭議言行",
+        "EventLocation": "立法院",
+        "EventDescription": "徐巧芯對民進黨立委李坤城比中指。",
+        "InvolvedPoliticianIDs": ["TP003"]
+      },
+      {
+        "EventName": "承認暴力行為",
+        "EventDate": "2024",
+        "EventType": "爭議言行",
+        "EventLocation": "立法院",
+        "EventDescription": "徐巧芯承認對民進黨立委陳亭妃施暴。",
+        "InvolvedPoliticianIDs": ["TP003"]
+      },
+      {
+        "EventName": "凍結潛艦預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "徐巧芯提案凍結潛艦國造預算。",
+        "InvolvedPoliticianIDs": ["TP003"]
+      },
+      {
+        "EventName": "美台國防工業會議失言",
+        "EventDate": "2025",
+        "EventType": "爭議言行",
+        "EventLocation": "美國",
+        "EventDescription": "徐巧芯於美台國防工業會議發言引發爭議。",
+        "InvolvedPoliticianIDs": ["TP003"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-004",
+    "Title": "2025 大罷免》為什麼要罷免葉元之？",
+    "Source": "沃草",
+    "Author": "何宇軒",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "葉元之", "洩密", "慣老闆", "新北市"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "新北市",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP004",
+        "TargetPoliticianName": "葉元之",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "新北市",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["機密預算直播洩密", "慣老闆爭議", "刪減預算", "依賴空戰", "投機性格"],
+        "ReasonCategory": ["政策失當", "道德爭議", "爭議言行", "政治立場"],
+        "MentionFrequency": 25,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["中央政府總預算"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "羅致政",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 4
+      },
+      {
+        "RelatedPersonName": "侯友宜",
+        "RelatedPersonRole": "總統參選人",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "柯文哲",
+        "RelatedPersonRole": "總統參選人",
+        "RelationshipToTarget": "前合作對象",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "趙少康",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "陳柏惟",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "批評對象",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "顏寬恒",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "比較對象",
+        "MentionFrequency": 1
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "機密預算直播",
+        "EventDate": "2025",
+        "EventType": "爭議事件",
+        "EventLocation": "立法院",
+        "EventDescription": "葉元之在審查機密預算時開直播，引發洩密爭議。",
+        "InvolvedPoliticianIDs": ["TP004"]
+      },
+      {
+        "EventName": "慣老闆爭議",
+        "EventDate": "2025",
+        "EventType": "道德爭議",
+        "EventLocation": "新北市",
+        "EventDescription": "葉元之被爆出「慣老闆」爭議，助理過世。",
+        "InvolvedPoliticianIDs": ["TP004"]
+      },
+      {
+        "EventName": "刪減中央政府總預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "葉元之支持國民黨團刪減中央政府總預算。",
+        "InvolvedPoliticianIDs": ["TP004"]
+      },
+      {
+        "EventName": "競選看板爭議",
+        "EventDate": "2024",
+        "EventType": "選舉",
+        "EventLocation": "新北市",
+        "EventDescription": "葉元之競選看板先掛侯柯合照，後改為侯趙。",
+        "InvolvedPoliticianIDs": ["TP004"]
+      },
+      {
+        "EventName": "罷免陳柏惟",
+        "EventDate": "2021",
+        "EventType": "罷免",
+        "EventLocation": "台中市",
+        "EventDescription": "葉元之曾拍影片宣傳罷免陳柏惟。",
+        "InvolvedPoliticianIDs": ["TP004"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-005",
+    "Title": "2025 大罷免》為什麼要罷免牛煦庭？",
+    "Source": "沃草",
+    "Author": "廖昱涵",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "牛煦庭", "勞基法", "性平", "桃園市"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "桃園市",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP005",
+        "TargetPoliticianName": "牛煦庭",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "桃園市",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["試用期8成薪", "反同爭議", "刪減性平預算", "暴打立委", "臉書罵網友", "行政干預罷免"],
+        "ReasonCategory": ["政策失當", "爭議言行", "政治立場", "道德爭議"],
+        "MentionFrequency": 28,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["勞基法", "選罷法", "憲法訴訟法", "財政收支劃分法"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "張善政",
+        "RelatedPersonRole": "桃園市長",
+        "RelationshipToTarget": "同黨, 支持者",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "陳建仁",
+        "RelatedPersonRole": "前行政院長",
+        "RelationshipToTarget": "質詢對象",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "鄭運鵬",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "馬治薇",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "選舉競爭者",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "江啟臣",
+        "RelatedPersonRole": "立法院副院長",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "沈伯洋",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "受害者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "許智傑",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "受害者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "徐欣瑩",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "許宇甄",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "陳曉煒",
+        "RelatedPersonRole": "牧師",
+        "RelationshipToTarget": "罷免領銜人",
+        "MentionFrequency": 2
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "試用期8成薪提案",
+        "EventDate": "2025",
+        "EventType": "政策失當",
+        "EventLocation": "立法院",
+        "EventDescription": "牛煦庭提出《勞基法》草案，明文規定試用期薪水不得低於應聘工資 80%。",
+        "InvolvedPoliticianIDs": ["TP005"]
+      },
+      {
+        "EventName": "質詢陳建仁",
+        "EventDate": "2025",
+        "EventType": "質詢",
+        "EventLocation": "立法院",
+        "EventDescription": "牛煦庭質詢陳建仁信仰問題，引發爭議。",
+        "InvolvedPoliticianIDs": ["TP005"]
+      },
+      {
+        "EventName": "訕笑沈伯洋",
+        "EventDate": "2024",
+        "EventType": "爭議言行",
+        "EventLocation": "立法院",
+        "EventDescription": "牛煦庭在立法院訕笑沈伯洋。",
+        "InvolvedPoliticianIDs": ["TP005"]
+      },
+      {
+        "EventName": "刪除性平預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "牛煦庭提案刪除行政院性平業務費用。",
+        "InvolvedPoliticianIDs": ["TP005"]
+      },
+      {
+        "EventName": "暴打許智傑",
+        "EventDate": "2025",
+        "EventType": "爭議言行",
+        "EventLocation": "立法院",
+        "EventDescription": "牛煦庭被拍到暴打民進黨立委許智傑。",
+        "InvolvedPoliticianIDs": ["TP005"]
+      },
+      {
+        "EventName": "桃園市政府協助反罷免",
+        "EventDate": "2025",
+        "EventType": "政治活動",
+        "EventLocation": "桃園市",
+        "EventDescription": "桃園市政府表態協助牛煦庭反罷免。",
+        "InvolvedPoliticianIDs": ["TP005"]
+      },
+      {
+        "EventName": "彩虹平權問卷爭議",
+        "EventDate": "2024",
+        "EventType": "政治立場",
+        "EventLocation": "桃園市",
+        "EventDescription": "牛煦庭曾簽署性平友善問卷，後又未制止反同言論。",
+        "InvolvedPoliticianIDs": ["TP005"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-006",
+    "Title": "2025 大罷免》為什麼要罷免李彥秀？",
+    "Source": "沃草",
+    "Author": "何宇軒",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "李彥秀", "豪宅", "綠卡", "台北市"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "台北市",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP006",
+        "TargetPoliticianName": "李彥秀",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "台北市",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["美國豪宅未申報", "綠卡/公民身份質疑", "親中疑美", "削弱國防預算"],
+        "ReasonCategory": ["道德爭議", "政治立場", "政策失當"],
+        "MentionFrequency": 22,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["公職人員財產申報法"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "高嘉瑜",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前選舉對手, 批評者",
+        "MentionFrequency": 5
+      },
+      {
+        "RelatedPersonName": "蔡正元",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前任",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "黃珊珊",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "前選舉競爭者",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "吳欣岱",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "選舉競爭者",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "蔡銘軒",
+        "RelatedPersonRole": "南投縣議員",
+        "RelationshipToTarget": "罷免行動",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "陳玉鈴",
+        "RelatedPersonRole": "南投縣議員",
+        "RelationshipToTarget": "罷免行動",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "李慶安",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "比較對象",
+        "MentionFrequency": 1
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "美國豪宅爭議",
+        "EventDate": "2025",
+        "EventType": "道德爭議",
+        "EventLocation": "美國, 台灣",
+        "EventDescription": "李彥秀被指控在美國擁有豪宅未申報。",
+        "InvolvedPoliticianIDs": ["TP006"]
+      },
+      {
+        "EventName": "割闌尾行動",
+        "EventDate": "2014",
+        "EventType": "罷免",
+        "EventLocation": "台北市",
+        "EventDescription": "港湖區曾發起罷免蔡正元行動。",
+        "InvolvedPoliticianIDs": []
+      },
+      {
+        "EventName": "削弱國防預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "李彥秀投票支持削弱國防預算。",
+        "InvolvedPoliticianIDs": ["TP006"]
+      },
+      {
+        "EventName": "凍結潛艦國造預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "李彥秀投票支持凍結潛艦國造預算。",
+        "InvolvedPoliticianIDs": ["TP006"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-007",
+    "Title": "2025 大罷免》為什麼要罷免徐欣瑩？",
+    "Source": "沃草",
+    "Author": "廖昱涵",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "徐欣瑩", "選罷法", "客家", "新竹縣"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "新竹縣",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP007",
+        "TargetPoliticianName": "徐欣瑩",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "新竹縣",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["修惡選罷法", "訪中", "凍結客委會預算", "刪減性平預算", "宗教色彩濃厚", "議事瑕疵", "跑去洗頭"],
+        "ReasonCategory": ["政策失當", "政治立場", "道德爭議", "爭議言行"],
+        "MentionFrequency": 32,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["選罷法"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "傅崐萁",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "同黨, 訪中同行",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "王滬寧",
+        "RelatedPersonRole": "中國政協主席",
+        "RelationshipToTarget": "會見對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "詹紀緹",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "余筱菁",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "選舉競爭者",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "林為洲",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前任",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "柯文哲",
+        "RelatedPersonRole": "前台北市長",
+        "RelationshipToTarget": "前合作對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "宋楚瑜",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "前合作對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "妙天",
+        "RelatedPersonRole": "宗教領袖",
+        "RelationshipToTarget": "宗教信仰",
+        "MentionFrequency": 4
+      },
+      {
+        "RelatedPersonName": "許宇甄",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "蘇清泉",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "林思銘",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "同選區",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "彭莉惠",
+        "RelatedPersonRole": "學者",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 1
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "訪中",
+        "EventDate": "2024-04-26",
+        "EventType": "政治活動",
+        "EventLocation": "中國",
+        "EventDescription": "徐欣瑩隨傅崐萁訪中。",
+        "InvolvedPoliticianIDs": ["TP007"]
+      },
+      {
+        "EventName": "修惡選罷法",
+        "EventDate": "2024-12-16",
+        "EventType": "法案審查",
+        "EventLocation": "立法院",
+        "EventDescription": "徐欣瑩擔任召委，主導修惡選罷法。",
+        "InvolvedPoliticianIDs": ["TP007"]
+      },
+      {
+        "EventName": "洗頭爭議",
+        "EventDate": "2024-12-16",
+        "EventType": "爭議言行",
+        "EventLocation": "立法院",
+        "EventDescription": "徐欣瑩被目擊於議事攻防期間跑去洗頭。",
+        "InvolvedPoliticianIDs": ["TP007"]
+      },
+      {
+        "EventName": "凍結客委會預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "徐欣瑩提案凍結客委會預算。",
+        "InvolvedPoliticianIDs": ["TP007"]
+      },
+      {
+        "EventName": "刪減性平預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "徐欣瑩提案刪除行政院性平業務費用。",
+        "InvolvedPoliticianIDs": ["TP007"]
+      },
+      {
+        "EventName": "回鍋國民黨",
+        "EventDate": "2022",
+        "EventType": "政治活動",
+        "EventLocation": "台灣",
+        "EventDescription": "徐欣瑩回鍋國民黨。",
+        "InvolvedPoliticianIDs": ["TP007"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-008",
+    "Title": "2025 大罷免》為什麼要罷免邱鎮軍？",
+    "Source": "沃草",
+    "Author": "廖昱涵",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "邱鎮軍", "暴力", "黑道", "苗栗縣"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "苗栗縣",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP008",
+        "TargetPoliticianName": "邱鎮軍",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "苗栗縣",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["推沈伯洋致腦震盪", "巴頭許智傑", "黑道背景", "賭博電玩爭議", "與統促黨關係密切", "暴力傾向"],
+        "ReasonCategory": ["爭議言行", "違法行為", "政治立場", "道德爭議"],
+        "MentionFrequency": 30,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["國會擴權法案", "選罷法"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "沈伯洋",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "受害者",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "許智傑",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "受害者",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "徐志榮",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前任",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "張安樂",
+        "RelatedPersonRole": "統促黨總裁",
+        "RelationshipToTarget": "關係密切",
+        "MentionFrequency": 4
+      },
+      {
+        "RelatedPersonName": "曾玟學",
+        "RelatedPersonRole": "苗栗縣議員",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 5
+      },
+      {
+        "RelatedPersonName": "林楚茵",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "王滬寧",
+        "RelatedPersonRole": "中國政協主席",
+        "RelationshipToTarget": "會見對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "傅崐萁",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "訪中同行",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "李喬",
+        "RelatedPersonRole": "作家",
+        "RelationshipToTarget": "罷免領銜人",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "歐陽霆",
+        "RelatedPersonRole": "新竹縣議員",
+        "RelationshipToTarget": "聲援罷免",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "賴桂煖",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "競爭對手",
+        "MentionFrequency": 1
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "推沈伯洋下主席台",
+        "EventDate": "2024",
+        "EventType": "爭議言行",
+        "EventLocation": "立法院",
+        "EventDescription": "邱鎮軍將沈伯洋推落主席台。",
+        "InvolvedPoliticianIDs": ["TP008"]
+      },
+      {
+        "EventName": "巴頭許智傑",
+        "EventDate": "2024-12",
+        "EventType": "爭議言行",
+        "EventLocation": "立法院",
+        "EventDescription": "邱鎮軍被指控多次巴頭許智傑。",
+        "InvolvedPoliticianIDs": ["TP008"]
+      },
+      {
+        "EventName": "30年前毆警事件",
+        "EventDate": "1995",
+        "EventType": "違法行為",
+        "EventLocation": "苗栗",
+        "EventDescription": "邱鎮軍30年前曾涉嫌毆打警察。",
+        "InvolvedPoliticianIDs": ["TP008"]
+      },
+      {
+        "EventName": "經營賭博電玩爭議",
+        "EventDate": "2025",
+        "EventType": "道德爭議",
+        "EventLocation": "苗栗",
+        "EventDescription": "邱鎮軍被質疑經營賭博電玩「以賭養毒」。",
+        "InvolvedPoliticianIDs": ["TP008"]
+      },
+      {
+        "EventName": "與張安樂關係密切",
+        "EventDate": "2025",
+        "EventType": "政治立場",
+        "EventLocation": "苗栗",
+        "EventDescription": "邱鎮軍被指控與統促黨總裁張安樂過從甚密。",
+        "InvolvedPoliticianIDs": ["TP008"]
+      },
+      {
+        "EventName": "訪中",
+        "EventDate": "2024-04-26",
+        "EventType": "政治活動",
+        "EventLocation": "中國",
+        "EventDescription": "邱鎮軍隨傅崐萁訪中，會見王滬寧。",
+        "InvolvedPoliticianIDs": ["TP008"]
+      },
+      {
+        "EventName": "遭查水表",
+        "EventDate": "2025",
+        "EventType": "爭議事件",
+        "EventLocation": "苗栗",
+        "EventDescription": "罷免邱鎮軍行動傳出遭查水表等打壓。",
+        "InvolvedPoliticianIDs": ["TP008"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-009",
+    "Title": "2025 大罷免》為什麼要罷免游顥？",
+    "Source": "沃草",
+    "Author": "廖昱涵",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "游顥", "中配入籍", "救國團", "南投縣"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "南投縣",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP009",
+        "TargetPoliticianName": "游顥",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "南投縣",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["縮短中配入籍", "替救國團解套", "訪中", "政見跳票", "澎湖設服務處", "財劃法損害南投利益"],
+        "ReasonCategory": ["政策失當", "政治立場", "爭議言行"],
+        "MentionFrequency": 29,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["選罷法", "憲法訴訟法", "財政收支劃分法", "不當黨產處理條例"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "傅崐萁",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "同黨, 訪中同行",
+        "MentionFrequency": 4
+      },
+      {
+        "RelatedPersonName": "王滬寧",
+        "RelatedPersonRole": "中國政協主席",
+        "RelationshipToTarget": "會見對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "蔡培慧",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "洪秀柱",
+        "RelatedPersonRole": "前立法院副院長",
+        "RelationshipToTarget": "前老闆",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "許宇甄",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "林敬桐",
+        "RelatedPersonRole": "罷免領銜人",
+        "RelationshipToTarget": "罷免方",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "馮記林",
+        "RelatedPersonRole": "統促會副秘書長",
+        "RelationshipToTarget": "接觸對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "馬文君",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "同選區",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "曾郁凱",
+        "RelatedPersonRole": "罷免領銜人",
+        "RelationshipToTarget": "罷免方",
+        "MentionFrequency": 2
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "縮短中配入籍年限提案",
+        "EventDate": "2025",
+        "EventType": "法案提案",
+        "EventLocation": "立法院",
+        "EventDescription": "游顥提案縮短中配入籍年限。",
+        "InvolvedPoliticianIDs": ["TP009"]
+      },
+      {
+        "EventName": "替救國團不當黨產解套",
+        "EventDate": "2025",
+        "EventType": "法案提案",
+        "EventLocation": "立法院",
+        "EventDescription": "游顥提出《不當黨產處理條例》修法，替救國團解套。",
+        "InvolvedPoliticianIDs": ["TP009"]
+      },
+      {
+        "EventName": "訪中",
+        "EventDate": "2024-04-26",
+        "EventType": "政治活動",
+        "EventLocation": "中國",
+        "EventDescription": "游顥隨傅崐萁訪中，會見王滬寧。",
+        "InvolvedPoliticianIDs": ["TP009"]
+      },
+      {
+        "EventName": "被控帶學生赴中接受落地招待",
+        "EventDate": "2019",
+        "EventType": "爭議事件",
+        "EventLocation": "中國",
+        "EventDescription": "游顥被指控議員期間帶隊學生赴中接受落地招待。",
+        "InvolvedPoliticianIDs": ["TP009"]
+      },
+      {
+        "EventName": "澎湖設服務處",
+        "EventDate": "2025-05",
+        "EventType": "政治活動",
+        "EventLocation": "澎湖",
+        "EventDescription": "游顥於澎湖設立服務處。",
+        "InvolvedPoliticianIDs": ["TP009"]
+      },
+      {
+        "EventName": "財劃法爭議",
+        "EventDate": "2025",
+        "EventType": "法案審查",
+        "EventLocation": "立法院",
+        "EventDescription": "游顥支持《財政收支劃分法》，被指損害南投利益。",
+        "InvolvedPoliticianIDs": ["TP009"]
+      },
+      {
+        "EventName": "垃圾山政見跳票",
+        "EventDate": "2025",
+        "EventType": "政策失當",
+        "EventLocation": "南投縣",
+        "EventDescription": "游顥選前承諾解決南投垃圾山問題，但政見跳票。",
+        "InvolvedPoliticianIDs": ["TP009"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-010",
+    "Title": "2025 大罷免》為什麼要罷免羅明才？",
+    "Source": "沃草",
+    "Author": "何宇軒",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "羅明才", "黑道", "財劃法", "新北市"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "新北市",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP010",
+        "TargetPoliticianName": "羅明才",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "新北市",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["父親羅福助黑道背景", "大香山招待所爭議", "提倡發紅包民粹政策", "提倡兩岸和平協議", "參與傅崐萁訪中團", "刪減轉型正義預算"],
+        "ReasonCategory": ["道德爭議", "政治立場", "政策失當", "家庭爭議"],
+        "MentionFrequency": 26,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["兩岸和平協議", "財政收支劃分法"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "羅福助",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "父親",
+        "MentionFrequency": 6
+      },
+      {
+        "RelatedPersonName": "廖學廣",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "事件受害者",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "鄭信政",
+        "RelatedPersonRole": "主嫌",
+        "RelationshipToTarget": "相關人物",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "蘇貞昌",
+        "RelatedPersonRole": "前行政院長",
+        "RelationshipToTarget": "質詢對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "陳建仁",
+        "RelatedPersonRole": "前行政院長",
+        "RelationshipToTarget": "質詢對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "卓榮泰",
+        "RelatedPersonRole": "行政院長",
+        "RelationshipToTarget": "質詢對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "張慶忠",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "比較對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "王滬寧",
+        "RelatedPersonRole": "中國政協主席",
+        "RelationshipToTarget": "會見對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "傅崐萁",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "訪中同行",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "曾柏瑜",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "吳柏瑋",
+        "RelatedPersonRole": "罷免領銜人",
+        "RelationshipToTarget": "罷免方",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "裴洛西",
+        "RelatedPersonRole": "前美國眾議院議長",
+        "RelationshipToTarget": "參訪地點",
+        "MentionFrequency": 1
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "關狗籠事件",
+        "EventDate": "1997",
+        "EventType": "違法行為",
+        "EventLocation": "新北市",
+        "EventDescription": "廖學廣被綁架監禁於狗籠，懷疑與羅福助有關。",
+        "InvolvedPoliticianIDs": []
+      },
+      {
+        "EventName": "大香山招待所爭議",
+        "EventDate": "2024",
+        "EventType": "道德爭議",
+        "EventLocation": "新北市",
+        "EventDescription": "羅明才被爆在大香山設招待所招待官員。",
+        "InvolvedPoliticianIDs": ["TP010"]
+      },
+      {
+        "EventName": "提倡發紅包",
+        "EventDate": "2020, 2024",
+        "EventType": "政策失當",
+        "EventLocation": "立法院",
+        "EventDescription": "羅明才多次建議政府普發現金紅包。",
+        "InvolvedPoliticianIDs": ["TP010"]
+      },
+      {
+        "EventName": "太陽花學運批評",
+        "EventDate": "2014",
+        "EventType": "爭議言行",
+        "EventLocation": "台北市",
+        "EventDescription": "羅明才批評太陽花學運參與者是「屁孩」。",
+        "InvolvedPoliticianIDs": ["TP010"]
+      },
+      {
+        "EventName": "提倡兩岸和平協議",
+        "EventDate": "2025",
+        "EventType": "政治立場",
+        "EventLocation": "立法院",
+        "EventDescription": "羅明才提倡與中國推動和平協議。",
+        "InvolvedPoliticianIDs": ["TP010"]
+      },
+      {
+        "EventName": "訪中",
+        "EventDate": "2024-04-26",
+        "EventType": "政治活動",
+        "EventLocation": "中國",
+        "EventDescription": "羅明才參與傅崐萁訪中團，會見王滬寧。",
+        "InvolvedPoliticianIDs": ["TP010"]
+      },
+      {
+        "EventName": "刪減轉型正義預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "羅明才支持國民黨團刪減轉型正義預算。",
+        "InvolvedPoliticianIDs": ["TP010"]
+      },
+      {
+        "EventName": "志工遭暴力對待",
+        "EventDate": "2025-05-17",
+        "EventType": "爭議事件",
+        "EventLocation": "新北市",
+        "EventDescription": "罷免羅明才志工遭反對者暴力毆打。",
+        "InvolvedPoliticianIDs": []
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-011",
+    "Title": "2025 大罷免》為什麼要罷免顏寬恒？",
+    "Source": "沃草",
+    "Author": "廖昱涵",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "顏寬恒", "黑金", "貪污", "台中市"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "台中市",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP011",
+        "TargetPoliticianName": "顏寬恒",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "台中市",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["家族黑金勢力", "貪污罪判刑", "土地爭議", "質詢率低", "配合黨團通過惡法"],
+        "ReasonCategory": ["違法行為", "道德爭議", "政策失當", "家庭爭議"],
+        "MentionFrequency": 33,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["國會擴權法", "選罷法", "憲法訴訟法", "財政收支劃分法"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "顏清標",
+        "RelatedPersonRole": "父親",
+        "RelationshipToTarget": "父親",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "陳柏惟",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 4
+      },
+      {
+        "RelatedPersonName": "林靜儀",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "顏莉敏",
+        "RelatedPersonRole": "台中市議員",
+        "RelationshipToTarget": "妹妹",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "盧秀燕",
+        "RelatedPersonRole": "台中市長",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "林進福",
+        "RelatedPersonRole": "營造商",
+        "RelationshipToTarget": "相關人物",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "蔡銘軒",
+        "RelatedPersonRole": "南投縣議員",
+        "RelationshipToTarget": "罷免行動",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "陳玉鈴",
+        "RelatedPersonRole": "南投縣議員",
+        "RelationshipToTarget": "罷免行動",
+        "MentionFrequency": 1
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "顏清標貪污案",
+        "EventDate": "2012",
+        "EventType": "違法行為",
+        "EventLocation": "台中市",
+        "EventDescription": "顏清標因貪污案被解職立委。",
+        "InvolvedPoliticianIDs": []
+      },
+      {
+        "EventName": "質詢率過低",
+        "EventDate": "2013-2024",
+        "EventType": "政策失當",
+        "EventLocation": "立法院",
+        "EventDescription": "顏寬恒任內曾兩度因質詢率過低被評為「待觀察立委」。",
+        "InvolvedPoliticianIDs": ["TP011"]
+      },
+      {
+        "EventName": "罷免陳柏惟",
+        "EventDate": "2021",
+        "EventType": "罷免",
+        "EventLocation": "台中市",
+        "EventDescription": "顏寬恒參與罷免陳柏惟行動。",
+        "InvolvedPoliticianIDs": ["TP011"]
+      },
+      {
+        "EventName": "817招待所違建",
+        "EventDate": "2024",
+        "EventType": "違法行為",
+        "EventLocation": "台中市",
+        "EventDescription": "顏家817招待所被指控違建。",
+        "InvolvedPoliticianIDs": ["TP011"]
+      },
+      {
+        "EventName": "台中捷運藍線爭議",
+        "EventDate": "2024",
+        "EventType": "政策失當",
+        "EventLocation": "台中市",
+        "EventDescription": "台中捷運藍線站位變更，被質疑替顏家土地增值。",
+        "InvolvedPoliticianIDs": ["TP011"]
+      },
+      {
+        "EventName": "沙鹿豪宅違建案",
+        "EventDate": "2024",
+        "EventType": "違法行為",
+        "EventLocation": "台中市",
+        "EventDescription": "顏寬恒沙鹿豪宅被指違建，疑似假交易。",
+        "InvolvedPoliticianIDs": ["TP011"]
+      },
+      {
+        "EventName": "詐領助理費案",
+        "EventDate": "2024",
+        "EventType": "違法行為",
+        "EventLocation": "台中市",
+        "EventDescription": "顏寬恒被控詐領助理費。",
+        "InvolvedPoliticianIDs": ["TP011"]
+      },
+      {
+        "EventName": "貪污罪判刑",
+        "EventDate": "2024-07",
+        "EventType": "違法行為",
+        "EventLocation": "台中市",
+        "EventDescription": "顏寬恒一審因貪污罪被判刑。",
+        "InvolvedPoliticianIDs": ["TP011"]
+      },
+      {
+        "EventName": "國會擴權法案",
+        "EventDate": "2025-05",
+        "EventType": "法案審查",
+        "EventLocation": "立法院",
+        "EventDescription": "顏寬恒支持國會擴權法案。",
+        "InvolvedPoliticianIDs": ["TP011"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-012",
+    "Title": "2025 大罷免》為什麼要罷免廖偉翔？",
+    "Source": "沃草",
+    "Author": "廖昱涵",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "廖偉翔", "收割政績", "失言", "台中市"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "台中市",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP012",
+        "TargetPoliticianName": "廖偉翔",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "台中市",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["收割中捷藍線政績", "質詢出包", "打人", "氣爆現場直播", "專業度受質疑", "魁儡網紅"],
+        "ReasonCategory": ["爭議言行", "政策失當", "道德爭議"],
+        "MentionFrequency": 30,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["國會擴權法案", "選罷法", "憲法訴訟法", "財政收支劃分法"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "黃馨慧",
+        "RelatedPersonRole": "台中市議員",
+        "RelationshipToTarget": "母親",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "黃顯洲",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "舅舅",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "胡志強",
+        "RelatedPersonRole": "前台中市長",
+        "RelationshipToTarget": "前老闆",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "盧秀燕",
+        "RelatedPersonRole": "台中市長",
+        "RelationshipToTarget": "同黨, 支持者",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "柯文哲",
+        "RelatedPersonRole": "前民眾黨主席",
+        "RelationshipToTarget": "支持者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "張廖萬堅",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "林靜儀",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "蔡其昌",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "合作對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "陳建仁",
+        "RelatedPersonRole": "前行政院長",
+        "RelationshipToTarget": "質詢對象",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "沈伯洋",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "受害者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "邱鎮軍",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 1
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "收割中捷藍線政績",
+        "EventDate": "2024",
+        "EventType": "爭議言行",
+        "EventLocation": "台中市",
+        "EventDescription": "廖偉翔發布圖卡，收割中捷藍線政績。",
+        "InvolvedPoliticianIDs": ["TP012"]
+      },
+      {
+        "EventName": "質詢瘦肉精事件出包",
+        "EventDate": "2025",
+        "EventType": "質詢",
+        "EventLocation": "立法院",
+        "EventDescription": "廖偉翔質詢瘦肉精事件，被指不懂抽樣意義。",
+        "InvolvedPoliticianIDs": ["TP012"]
+      },
+      {
+        "EventName": "質詢缺藥議題遭藥師公會抗議",
+        "EventDate": "2025",
+        "EventType": "質詢",
+        "EventLocation": "立法院",
+        "EventDescription": "廖偉翔質詢缺藥議題，說法遭藥師公會抗議。",
+        "InvolvedPoliticianIDs": ["TP012"]
+      },
+      {
+        "EventName": "國會打人",
+        "EventDate": "2025-05-17",
+        "EventType": "爭議言行",
+        "EventLocation": "立法院",
+        "EventDescription": "廖偉翔被指控在國會擴權法案攻防中打人。",
+        "InvolvedPoliticianIDs": ["TP012"]
+      },
+      {
+        "EventName": "新光三越氣爆現場直播",
+        "EventDate": "2025",
+        "EventType": "爭議言行",
+        "EventLocation": "台中市",
+        "EventDescription": "廖偉翔於台中新光三越氣爆現場開直播，遭質疑妨礙救災。",
+        "InvolvedPoliticianIDs": ["TP012"]
+      },
+      {
+        "EventName": "魁儡政治網紅",
+        "EventDate": "2025",
+        "EventType": "政治立場",
+        "EventLocation": "台中市",
+        "EventDescription": "廖偉翔被批評為用錢砸出來的「魁儡政治網紅」。",
+        "InvolvedPoliticianIDs": ["TP012"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-013",
+    "Title": "2025 大罷免》為什麼要罷免呂玉玲？",
+    "Source": "沃草",
+    "Author": "何宇軒",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "呂玉玲", "軍系", "國防預算", "桃園市"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "桃園市",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP013",
+        "TargetPoliticianName": "呂玉玲",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "桃園市",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["凍結國防預算", "刪減客家預算", "軍系立委形象不符", "賄選爭議", "黨團橡皮圖章"],
+        "ReasonCategory": ["政策失當", "政治立場", "爭議言行"],
+        "MentionFrequency": 24,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["國防預算"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "馬文君",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "比較對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "劉仁照",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "李正皓",
+        "RelatedPersonRole": "政治評論員",
+        "RelationshipToTarget": "評論者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "彭俊豪",
+        "RelatedPersonRole": "桃園市議員",
+        "RelationshipToTarget": "聲援罷免",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "鄭舜元",
+        "RelatedPersonRole": "前國防大學教官",
+        "RelationshipToTarget": "支持罷免",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "陳萬得",
+        "RelatedPersonRole": "丈夫",
+        "RelationshipToTarget": "家人",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "朱鳳芝",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前任",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "張肇良",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "賴香伶",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "選舉競爭者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "傅崐萁",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 2
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "凍結國防預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "呂玉玲被指控凍結超過150筆國防預算。",
+        "InvolvedPoliticianIDs": ["TP013"]
+      },
+      {
+        "EventName": "刪減客家預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "呂玉玲跟隨黨團刪減客家預算。",
+        "InvolvedPoliticianIDs": ["TP013"]
+      },
+      {
+        "EventName": "修容組賄選爭議",
+        "EventDate": "2024",
+        "EventType": "選舉",
+        "EventLocation": "桃園市",
+        "EventDescription": "呂玉玲選前贈送修容組，被指控賄選。",
+        "InvolvedPoliticianIDs": ["TP013"]
+      },
+      {
+        "EventName": "傅崐萁修容組弊案",
+        "EventDate": "2025",
+        "EventType": "違法行為",
+        "EventLocation": "台北市",
+        "EventDescription": "傅崐萁修容組弊案，意外讓呂玉玲賄選案重提。",
+        "InvolvedPoliticianIDs": ["TP013"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-014",
+    "Title": "2025 大罷免》為什麼要罷免馬文君？",
+    "Source": "沃草",
+    "Author": "廖昱涵",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "馬文君", "潛艦國造", "洩密", "南投縣"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "南投縣",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP014",
+        "TargetPoliticianName": "馬文君",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "南投縣",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["阻撓潛艦國造", "洩密疑雲", "農地豪宅爭議", "提案刪減陸委會預算", "支持中配入籍"],
+        "ReasonCategory": ["政策失當", "政治立場", "道德爭議", "違法行為"],
+        "MentionFrequency": 35,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["潛艦國造預算", "中配入籍法案"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "黃曙光",
+        "RelatedPersonRole": "前參謀總長",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "郭璽",
+        "RelatedPersonRole": "前海軍顧問",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "蔡銘軒",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "吳敦義",
+        "RelatedPersonRole": "前副總統",
+        "RelationshipToTarget": "同黨, 派系",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "蔡英文",
+        "RelatedPersonRole": "前總統",
+        "RelationshipToTarget": "比較對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "吳思瑤",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "曾郁凱",
+        "RelatedPersonRole": "罷免領銜人",
+        "RelationshipToTarget": "罷免方",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "陳玉鈴",
+        "RelatedPersonRole": "南投縣議員",
+        "RelationshipToTarget": "罷免行動",
+        "MentionFrequency": 1
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "阻撓潛艦國造預算",
+        "EventDate": "2018-2025",
+        "EventType": "政策失當",
+        "EventLocation": "立法院",
+        "EventDescription": "馬文君多次阻撓潛艦國造預算。",
+        "InvolvedPoliticianIDs": ["TP014"]
+      },
+      {
+        "EventName": "唱衰潛艦",
+        "EventDate": "2023-09",
+        "EventType": "爭議言行",
+        "EventLocation": "台灣",
+        "EventDescription": "馬文君唱衰潛艦是「海底棺材」。",
+        "InvolvedPoliticianIDs": ["TP014"]
+      },
+      {
+        "EventName": "潛艦洩密疑雲",
+        "EventDate": "2023-10",
+        "EventType": "洩密",
+        "EventLocation": "台灣",
+        "EventDescription": "馬文君捲入潛艦洩密韓國疑雲。",
+        "InvolvedPoliticianIDs": ["TP014"]
+      },
+      {
+        "EventName": "農地豪宅爭議",
+        "EventDate": "2025",
+        "EventType": "道德爭議",
+        "EventLocation": "南投縣",
+        "EventDescription": "馬文君被爆料農地違建豪宅。",
+        "InvolvedPoliticianIDs": ["TP014"]
+      },
+      {
+        "EventName": "刪減陸委會預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "馬文君提案大砍陸委會預算。",
+        "InvolvedPoliticianIDs": ["TP014"]
+      },
+      {
+        "EventName": "支持中配入籍",
+        "EventDate": "2025",
+        "EventType": "政治立場",
+        "EventLocation": "立法院",
+        "EventDescription": "馬文君連署支持縮短中配入籍年限。",
+        "InvolvedPoliticianIDs": ["TP014"]
+      },
+      {
+        "EventName": "路易莎咖啡驅離罷免志工",
+        "EventDate": "2025-02-03",
+        "EventType": "爭議事件",
+        "EventLocation": "南投縣",
+        "EventDescription": "路易莎咖啡埔里酒廠門市驅離罷免馬文君志工。",
+        "InvolvedPoliticianIDs": []
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-015",
+    "Title": "2025 大罷免》為什麼要罷免陳超明？",
+    "Source": "沃草",
+    "Author": "廖昱涵",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "陳超明", "SOGO案", "失言", "苗栗縣"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "苗栗縣",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP015",
+        "TargetPoliticianName": "陳超明",
+        "TargetPoliticianParty": "無黨籍 (國民黨團)",
+        "TargetPoliticianDistrict": "苗栗縣",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["SOGO收賄案", "烏龍言論", "石虎爭議", "支持賄選言論", "歧視同性戀言論", "口罩爭議", "盲從黨意"],
+        "ReasonCategory": ["違法行為", "爭議言行", "政策失當", "道德爭議"],
+        "MentionFrequency": 30,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["SOGO收賄案"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "陳菊",
+        "RelatedPersonRole": "監察院長",
+        "RelationshipToTarget": "杯葛對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "蘇貞昌",
+        "RelatedPersonRole": "前行政院長",
+        "RelationshipToTarget": "質詢對象",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "陳明堂",
+        "RelatedPersonRole": "前法務部次長",
+        "RelationshipToTarget": "質詢對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "賴清德",
+        "RelatedPersonRole": "前立法院長",
+        "RelationshipToTarget": "比較對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "葉俊榮",
+        "RelatedPersonRole": "前內政部長",
+        "RelationshipToTarget": "比較對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "詹森林",
+        "RelatedPersonRole": "大法官",
+        "RelationshipToTarget": "質詢對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "陳時中",
+        "RelatedPersonRole": "前衛福部長",
+        "RelationshipToTarget": "質詢對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "韓國瑜",
+        "RelatedPersonRole": "立法院長",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "康世明",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "羅貴星",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "Ami",
+        "RelatedPersonRole": "罷免領銜人",
+        "RelationshipToTarget": "罷免方",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "李喬",
+        "RelatedPersonRole": "作家",
+        "RelationshipToTarget": "罷免行動",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "劉彥伶",
+        "RelatedPersonRole": "新竹市議員",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "林志潔",
+        "RelatedPersonRole": "學者",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "戴振博",
+        "RelatedPersonRole": "罷免領銜人",
+        "RelationshipToTarget": "罷免方",
+        "MentionFrequency": 1
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "SOGO收賄案",
+        "EventDate": "2020",
+        "EventType": "違法行為",
+        "EventLocation": "台北市",
+        "EventDescription": "陳超明捲入SOGO收賄案，一審判刑。",
+        "InvolvedPoliticianIDs": ["TP015"]
+      },
+      {
+        "EventName": "石虎保育爭議",
+        "EventDate": "2025",
+        "EventType": "爭議言行",
+        "EventLocation": "苗栗縣",
+        "EventDescription": "陳超明批評石虎保育是「炒作」。",
+        "InvolvedPoliticianIDs": ["TP015"]
+      },
+      {
+        "EventName": "支持賄選言論",
+        "EventDate": "2025",
+        "EventType": "爭議言行",
+        "EventLocation": "立法院",
+        "EventDescription": "陳超明稱「非常支持賄選」。",
+        "InvolvedPoliticianIDs": ["TP015"]
+      },
+      {
+        "EventName": "歧視同性戀言論",
+        "EventDate": "2025",
+        "EventType": "爭議言行",
+        "EventLocation": "立法院",
+        "EventDescription": "陳超明稱同性戀「不要去污染到我們鄉下」。",
+        "InvolvedPoliticianIDs": ["TP015"]
+      },
+      {
+        "EventName": "台大學生衝突事件",
+        "EventDate": "2025",
+        "EventType": "爭議言行",
+        "EventLocation": "台北市",
+        "EventDescription": "陳超明質疑台大學生在統促黨攻擊事件中「討打」。",
+        "InvolvedPoliticianIDs": ["TP015"]
+      },
+      {
+        "EventName": "質詢大法官被提名人",
+        "EventDate": "2025",
+        "EventType": "質詢",
+        "EventLocation": "立法院",
+        "EventDescription": "陳超明質詢大法官被提名人詹森林，表現失當。",
+        "InvolvedPoliticianIDs": ["TP015"]
+      },
+      {
+        "EventName": "自製口罩爭議",
+        "EventDate": "2020",
+        "EventType": "爭議言行",
+        "EventLocation": "立法院",
+        "EventDescription": "陳超明提出「老人在家做口罩」言論，引發爭議。",
+        "InvolvedPoliticianIDs": ["TP015"]
+      },
+      {
+        "EventName": "擋中央預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "陳超明跟隨藍白黨團在立法院擋中央預算。",
+        "InvolvedPoliticianIDs": ["TP015"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-016",
+    "Title": "2025 大罷免》為什麼要罷免張智倫？",
+    "Source": "沃草",
+    "Author": "何宇軒",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "張智倫", "政二代", "服貿", "新北市"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "新北市",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP016",
+        "TargetPoliticianName": "張智倫",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "新北市",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["政二代", "家族財產爭議", "刪減民防預算", "參與傅崐萁訪中團", "漠視年輕人困境", "刪減租金補助"],
+        "ReasonCategory": ["家庭爭議", "政策失當", "政治立場", "道德爭議"],
+        "MentionFrequency": 25,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["服貿協議"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "張慶忠",
+        "RelatedPersonRole": "父親, 前立法委員",
+        "RelationshipToTarget": "父親",
+        "MentionFrequency": 4
+      },
+      {
+        "RelatedPersonName": "陳錦錠",
+        "RelatedPersonRole": "母親, 新北市議員",
+        "RelationshipToTarget": "母親",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "吳崢",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "江永昌",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前任",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "邱烽堯",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "選舉競爭者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "邱臣遠",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "選舉競爭者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "王滬寧",
+        "RelatedPersonRole": "中國政協主席",
+        "RelationshipToTarget": "會見對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "傅崐萁",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "訪中同行",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "張宏林",
+        "RelatedPersonRole": "公督盟執行長",
+        "RelationshipToTarget": "評論者",
+        "MentionFrequency": 1
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "30秒通過服貿",
+        "EventDate": "2014",
+        "EventType": "法案審查",
+        "EventLocation": "立法院",
+        "EventDescription": "張慶忠30秒通過服貿協議，引發太陽花學運。",
+        "InvolvedPoliticianIDs": []
+      },
+      {
+        "EventName": "家族財產爭議",
+        "EventDate": "2024",
+        "EventType": "道德爭議",
+        "EventLocation": "新北市",
+        "EventDescription": "張智倫家族財產暴增，引發質疑。",
+        "InvolvedPoliticianIDs": ["TP016"]
+      },
+      {
+        "EventName": "在中和沒資產不算中和人",
+        "EventDate": "2024",
+        "EventType": "爭議言行",
+        "EventLocation": "新北市",
+        "EventDescription": "張智倫稱「在中和沒資產，不算中和人」。",
+        "InvolvedPoliticianIDs": ["TP016"]
+      },
+      {
+        "EventName": "刪減民防預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "張智倫提案刪減民防預算。",
+        "InvolvedPoliticianIDs": ["TP016"]
+      },
+      {
+        "EventName": "訪中",
+        "EventDate": "2024-04-26",
+        "EventType": "政治活動",
+        "EventLocation": "中國",
+        "EventDescription": "張智倫參與傅崐萁訪中團，會見王滬寧。",
+        "InvolvedPoliticianIDs": ["TP016"]
+      },
+      {
+        "EventName": "刪減租金補助",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "張智倫刪減租金補助預算。",
+        "InvolvedPoliticianIDs": ["TP016"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-017",
+    "Title": "2025 大罷免》為什麼要罷免洪孟楷？",
+    "Source": "沃草",
+    "Author": "何宇軒",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "洪孟楷", "政二代", "壯世代", "新北市"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "新北市",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP017",
+        "TargetPoliticianName": "洪孟楷",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "新北市",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["政二代", "壯世代法案爭議", "刪減體育預算又蹭棒球", "支持國會擴權法案", "家族中國投資"],
+        "ReasonCategory": ["家庭爭議", "政策失當", "政治立場", "道德爭議"],
+        "MentionFrequency": 28,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["壯世代政策及產業發展促進法", "國會擴權法案", "選罷法", "憲法訴訟法", "財政收支劃分法"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "郭素春",
+        "RelatedPersonRole": "母親, 前立法委員",
+        "RelationshipToTarget": "母親",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "洪璽曜",
+        "RelatedPersonRole": "父親",
+        "RelationshipToTarget": "父親",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "吳春城",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "壯世代法案相關",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "蘇清泉",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "壯世代法案相關",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "張育萌",
+        "RelatedPersonRole": "協會理事長",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "吳育昇",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前任",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "馮光遠",
+        "RelatedPersonRole": "作家",
+        "RelationshipToTarget": "前選舉競爭者",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "呂孫綾",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前任",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "何博文",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "溫朗東",
+        "RelatedPersonRole": "政治評論員",
+        "RelationshipToTarget": "評論者",
+        "MentionFrequency": 1
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "壯世代法案爭議",
+        "EventDate": "2025",
+        "EventType": "政策失當",
+        "EventLocation": "立法院",
+        "EventDescription": "洪孟楷被指控涉及「壯世代政策及產業發展促進法」圖利爭議。",
+        "InvolvedPoliticianIDs": ["TP017"]
+      },
+      {
+        "EventName": "刪減體育預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "洪孟楷支持刪減體育預算。",
+        "InvolvedPoliticianIDs": ["TP017"]
+      },
+      {
+        "EventName": "蹭棒球熱",
+        "EventDate": "2025-02",
+        "EventType": "爭議言行",
+        "EventLocation": "台灣",
+        "EventDescription": "洪孟楷刪減體育預算後又在棒球賽事沾光。",
+        "InvolvedPoliticianIDs": ["TP017"]
+      },
+      {
+        "EventName": "割闌尾行動",
+        "EventDate": "2014",
+        "EventType": "罷免",
+        "EventLocation": "新北市",
+        "EventDescription": "淡水區曾發起罷免吳育昇行動。",
+        "InvolvedPoliticianIDs": []
+      },
+      {
+        "EventName": "家族中國投資爭議",
+        "EventDate": "2024",
+        "EventType": "道德爭議",
+        "EventLocation": "中國",
+        "EventDescription": "洪孟楷家族被質疑在中國投資，有統戰疑慮。",
+        "InvolvedPoliticianIDs": ["TP017"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-018",
+    "Title": "2025 大罷免》為什麼要罷免林沛祥？",
+    "Source": "沃草",
+    "Author": "何宇軒",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "林沛祥", "刪除遺產門檻", "基隆市"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "基隆市",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP018",
+        "TargetPoliticianName": "林沛祥",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "基隆市",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["提案刪除中國人繼承遺產門檻", "參與傅崐萁訪中團", "干預淡水罷免", "質疑沈伯洋房產", "到處開砲管很大"],
+        "ReasonCategory": ["政策失當", "政治立場", "爭議言行"],
+        "MentionFrequency": 25,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["臺灣地區與大陸地區人民關係條例"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "林水木",
+        "RelatedPersonRole": "父親, 前基隆市長",
+        "RelationshipToTarget": "父親",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "徐少萍",
+        "RelatedPersonRole": "母親, 前立法委員",
+        "RelationshipToTarget": "母親",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "鄭文婷",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "翁曉玲",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "提案合作",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "林楚茵",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "謝國樑",
+        "RelatedPersonRole": "基隆市長",
+        "RelationshipToTarget": "同黨, 支持者",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "蔡適應",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前任",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "郝龍斌",
+        "RelatedPersonRole": "前台北市長",
+        "RelationshipToTarget": "選舉競爭者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "劉文雄",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "選舉競爭者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "王醒之",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "選舉競爭者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "沈伯洋",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "爭議對象",
+        "MentionFrequency": 3
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "提案刪除中國人繼承遺產門檻",
+        "EventDate": "2024-10",
+        "EventType": "法案提案",
+        "EventLocation": "立法院",
+        "EventDescription": "林沛祥提案刪除「中國人繼承遺產 200 萬門檻」。",
+        "InvolvedPoliticianIDs": ["TP018"]
+      },
+      {
+        "EventName": "參與傅崐萁訪中團",
+        "EventDate": "2024-04-26",
+        "EventType": "政治活動",
+        "EventLocation": "中國",
+        "EventDescription": "林沛祥參與傅崐萁訪中團，會見王滬寧。",
+        "InvolvedPoliticianIDs": ["TP018"]
+      },
+      {
+        "EventName": "干預淡水罷免",
+        "EventDate": "2025",
+        "EventType": "爭議言行",
+        "EventLocation": "新北市",
+        "EventDescription": "林沛祥批評淡水區罷免團體。",
+        "InvolvedPoliticianIDs": ["TP018"]
+      },
+      {
+        "EventName": "質疑沈伯洋房產",
+        "EventDate": "2025",
+        "EventType": "爭議言行",
+        "EventLocation": "台灣",
+        "EventDescription": "林沛祥質疑沈伯洋在美國的不動產。",
+        "InvolvedPoliticianIDs": ["TP018"]
+      },
+      {
+        "EventName": "謝國樑罷免案",
+        "EventDate": "2024",
+        "EventType": "罷免",
+        "EventLocation": "基隆市",
+        "EventDescription": "基隆市長謝國樑曾遭遇罷免。",
+        "InvolvedPoliticianIDs": []
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-019",
+    "Title": "2025 大罷免》為什麼要罷免羅智強？",
+    "Source": "沃草",
+    "Author": "何宇軒",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "羅智強", "空戰", "廢死", "台北市"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "台北市",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP019",
+        "TargetPoliticianName": "羅智強",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "台北市",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["善於空戰製造聲量", "羞辱公督盟", "民粹操作死刑議題", "多次表態參選又退選", "無心經營地方", "護航中天"],
+        "ReasonCategory": ["爭議言行", "政治立場", "政策失當", "道德爭議"],
+        "MentionFrequency": 30,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["反廢死公投"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "張宏林",
+        "RelatedPersonRole": "公督盟執行長",
+        "RelationshipToTarget": "批評對象",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "陳耀祥",
+        "RelatedPersonRole": "前NCC主委",
+        "RelationshipToTarget": "質詢對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "何穎怡",
+        "RelatedPersonRole": "媒體人",
+        "RelationshipToTarget": "評論者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "苗博雅",
+        "RelatedPersonRole": "台北市議員",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 4
+      },
+      {
+        "RelatedPersonName": "韓國瑜",
+        "RelatedPersonRole": "前高雄市長",
+        "RelationshipToTarget": "支持對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "侯友宜",
+        "RelatedPersonRole": "總統參選人",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "柯文哲",
+        "RelatedPersonRole": "前台北市長",
+        "RelationshipToTarget": "合作對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "金溥聰",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "黃呂錦茹",
+        "RelatedPersonRole": "國民黨北市黨部主委",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "李慶安",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前任, 比較對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "蔣乃辛",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前任",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "林奕華",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前任",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "蔣萬安",
+        "RelatedPersonRole": "台北市長",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 1
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "羞辱公督盟",
+        "EventDate": "2025",
+        "EventType": "爭議言行",
+        "EventLocation": "立法院",
+        "EventDescription": "羅智強在臉書上公開羞辱公督盟。",
+        "InvolvedPoliticianIDs": ["TP019"]
+      },
+      {
+        "EventName": "質詢陳耀祥",
+        "EventDate": "2025",
+        "EventType": "質詢",
+        "EventLocation": "立法院",
+        "EventDescription": "羅智強質詢陳耀祥，態度粗魯。",
+        "InvolvedPoliticianIDs": ["TP019"]
+      },
+      {
+        "EventName": "攻擊苗博雅廢死立場",
+        "EventDate": "2024",
+        "EventType": "政治立場",
+        "EventLocation": "台北市",
+        "EventDescription": "羅智強選舉期間攻擊苗博雅廢死立場。",
+        "InvolvedPoliticianIDs": ["TP019"]
+      },
+      {
+        "EventName": "推動反廢死公投",
+        "EventDate": "2025",
+        "EventType": "政治活動",
+        "EventLocation": "台灣",
+        "EventDescription": "羅智強帶頭推動「反廢死公投」。",
+        "InvolvedPoliticianIDs": ["TP019"]
+      },
+      {
+        "EventName": "多次表態參選又退選",
+        "EventDate": "2018-2024",
+        "EventType": "政治活動",
+        "EventLocation": "台灣",
+        "EventDescription": "羅智強多次表態參選各種職務，但經常不了了之。",
+        "InvolvedPoliticianIDs": ["TP019"]
+      },
+      {
+        "EventName": "護航中天新聞台",
+        "EventDate": "2025",
+        "EventType": "政策失當",
+        "EventLocation": "立法院",
+        "EventDescription": "羅智強提議修法讓新聞台執照永久有效，被指護航中天。",
+        "InvolvedPoliticianIDs": ["TP019"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-020",
+    "Title": "2025 大罷免》為什麼要罷免羅廷瑋？",
+    "Source": "沃草",
+    "Author": "廖昱涵",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "羅廷瑋", "性騷", "暴力", "台中市"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "台中市",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP020",
+        "TargetPoliticianName": "羅廷瑋",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "台中市",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["性騷爭議", "羞辱女性立委", "立院暴力行為", "助理看病咆哮醫院", "兼任評委", "立場轉變", "總預算棄權"],
+        "ReasonCategory": ["道德爭議", "爭議言行", "政策失當", "政治立場"],
+        "MentionFrequency": 35,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["國家安全戰略法"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "盧秀燕",
+        "RelatedPersonRole": "台中市長",
+        "RelationshipToTarget": "同黨, 支持者",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "林佳龍",
+        "RelatedPersonRole": "前台中市長",
+        "RelationshipToTarget": "前任",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "賴佳微",
+        "RelatedPersonRole": "台中市議員",
+        "RelationshipToTarget": "性騷指控者",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "吳思瑤",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "受害者",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "邱議瑩",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "受害者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "莊瑞雄",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "受害者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "鍾佳濱",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "受害者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "卓榮泰",
+        "RelatedPersonRole": "行政院長",
+        "RelationshipToTarget": "質詢對象",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "施景中",
+        "RelatedPersonRole": "醫師",
+        "RelationshipToTarget": "爆料者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "洪孟楷",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "誤傳對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "江肇國",
+        "RelatedPersonRole": "台中市議員",
+        "RelationshipToTarget": "點名批評者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "應曉薇",
+        "RelatedPersonRole": "台北市議員",
+        "RelationshipToTarget": "金句引用者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "黃國書",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前任",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "江和樹",
+        "RelatedPersonRole": "民眾黨市黨部主委",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 1
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "牛肉麵店反服貿",
+        "EventDate": "2014",
+        "EventType": "政治立場",
+        "EventLocation": "台中市",
+        "EventDescription": "羅廷瑋牛肉麵店曾掛出「反服貿」文宣。",
+        "InvolvedPoliticianIDs": ["TP020"]
+      },
+      {
+        "EventName": "性騷擾賴佳微",
+        "EventDate": "2025",
+        "EventType": "道德爭議",
+        "EventLocation": "台中市議會",
+        "EventDescription": "羅廷瑋被指控性騷擾台中市議員賴佳微。",
+        "InvolvedPoliticianIDs": ["TP020"]
+      },
+      {
+        "EventName": "羞辱女性立委",
+        "EventDate": "2025",
+        "EventType": "爭議言行",
+        "EventLocation": "立法院",
+        "EventDescription": "羅廷瑋被指控以「阿姨」羞辱女性立委。",
+        "InvolvedPoliticianIDs": ["TP020"]
+      },
+      {
+        "EventName": "立法院暴力行為",
+        "EventDate": "2025-05-17",
+        "EventType": "爭議言行",
+        "EventLocation": "立法院",
+        "EventDescription": "羅廷瑋被拍到在立法院打人鎖喉。",
+        "InvolvedPoliticianIDs": ["TP020"]
+      },
+      {
+        "EventName": "助理看病咆哮醫院",
+        "EventDate": "2025",
+        "EventType": "爭議言行",
+        "EventLocation": "台中市",
+        "EventDescription": "羅廷瑋助理看病感覺醫院服務不周，羅廷瑋咆哮醫院。",
+        "InvolvedPoliticianIDs": ["TP020"]
+      },
+      {
+        "EventName": "兼任環保局評委",
+        "EventDate": "2025",
+        "EventType": "道德爭議",
+        "EventLocation": "台中市",
+        "EventDescription": "羅廷瑋兼任台中市環保局採購案評選委員，引發爭議。",
+        "InvolvedPoliticianIDs": ["TP020"]
+      },
+      {
+        "EventName": "總預算表決棄權",
+        "EventDate": "2025",
+        "EventType": "政治立場",
+        "EventLocation": "立法院",
+        "EventDescription": "羅廷瑋在總預算表決中棄權。",
+        "InvolvedPoliticianIDs": ["TP020"]
+      },
+      {
+        "EventName": "太陽花學運支持",
+        "EventDate": "2014",
+        "EventType": "政治立場",
+        "EventLocation": "台中市",
+        "EventDescription": "羅廷瑋過去曾支持三一八太陽花運動。",
+        "InvolvedPoliticianIDs": ["TP020"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-021",
+    "Title": "2025 大罷免》為什麼要罷免鄭正鈐？",
+    "Source": "沃草",
+    "Author": "廖昱涵",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "鄭正鈐", "國會擴權", "詐騙", "新竹市"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "新竹市",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP021",
+        "TargetPoliticianName": "鄭正鈐",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "新竹市",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["硬闖國會擴權法案", "訪中會見王滬寧", "與詐騙集團有財務糾紛", "質詢蔡英文論文", "刪減科研預算", "未積極爭取地方建設"],
+        "ReasonCategory": ["政策失當", "政治立場", "道德爭議", "爭議言行"],
+        "MentionFrequency": 28,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["國會擴權法案", "選罷法", "憲法訴訟法", "財政收支劃分法"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "傅崐萁",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "同黨, 訪中同行",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "王滬寧",
+        "RelatedPersonRole": "中國政協主席",
+        "RelationshipToTarget": "會見對象",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "高虹安",
+        "RelatedPersonRole": "新竹市長",
+        "RelationshipToTarget": "同黨, 合作對象",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "林志潔",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "前選舉對手, 批評者",
+        "MentionFrequency": 4
+      },
+      {
+        "RelatedPersonName": "邱顯智",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "選舉競爭者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "柯美蘭",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "選舉競爭者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "邱臣遠",
+        "RelatedPersonRole": "新竹市代理市長",
+        "RelationshipToTarget": "同黨",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "陳建仁",
+        "RelatedPersonRole": "前行政院長",
+        "RelationshipToTarget": "質詢對象",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "蔡英文",
+        "RelatedPersonRole": "前總統",
+        "RelationshipToTarget": "質詢對象",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "戴振博",
+        "RelatedPersonRole": "罷免領銜人",
+        "RelationshipToTarget": "罷免方",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "劉彥伶",
+        "RelatedPersonRole": "新竹市議員",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 1
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "新竹共和國公投",
+        "EventDate": "2025",
+        "EventType": "政治立場",
+        "EventLocation": "新竹市",
+        "EventDescription": "鄭正鈐曾提議新竹舉行獨立公投、建立「新竹共和國」。",
+        "InvolvedPoliticianIDs": ["TP021"]
+      },
+      {
+        "EventName": "訪中",
+        "EventDate": "2024-04-26",
+        "EventType": "政治活動",
+        "EventLocation": "中國",
+        "EventDescription": "鄭正鈐隨傅崐萁訪中，會見王滬寧。",
+        "InvolvedPoliticianIDs": ["TP021"]
+      },
+      {
+        "EventName": "號召小英給我疫苗活動",
+        "EventDate": "2020",
+        "EventType": "政治活動",
+        "EventLocation": "台北市",
+        "EventDescription": "鄭正鈐號召「小英！給我疫苗」全民快閃活動。",
+        "InvolvedPoliticianIDs": ["TP021"]
+      },
+      {
+        "EventName": "質詢蔡英文論文",
+        "EventDate": "2025",
+        "EventType": "質詢",
+        "EventLocation": "立法院",
+        "EventDescription": "鄭正鈐質詢蔡英文論文真實性。",
+        "InvolvedPoliticianIDs": ["TP021"]
+      },
+      {
+        "EventName": "與詐騙集團財務糾紛",
+        "EventDate": "2025",
+        "EventType": "道德爭議",
+        "EventLocation": "新竹市",
+        "EventDescription": "鄭正鈐被指與詐騙集團有財務糾紛。",
+        "InvolvedPoliticianIDs": ["TP021"]
+      },
+      {
+        "EventName": "刪減科研預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "鄭正鈐支持刪減新竹重要科研機構的經費。",
+        "InvolvedPoliticianIDs": ["TP021"]
+      },
+      {
+        "EventName": "阻擋中央預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "鄭正鈐跟隨藍白黨團在立法院阻擋中央預算。",
+        "InvolvedPoliticianIDs": ["TP021"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-022",
+    "Title": "2025 大罷免》為什麼要罷免林思銘？",
+    "Source": "沃草",
+    "Author": "廖昱涵",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "林思銘", "客家", "鐵鍊", "新竹縣"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "新竹縣",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP022",
+        "TargetPoliticianName": "林思銘",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "新竹縣",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["大砍客委會預算", "凍結科學園區預算", "連署中配入籍", "鐵鍊三兄弟形象", "交通違規欠稅", "聲援楊文科"],
+        "ReasonCategory": ["政策失當", "政治立場", "道德爭議", "爭議言行"],
+        "MentionFrequency": 29,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["選罷法", "憲法訴訟法", "財政收支劃分法"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "傅崐萁",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "同黨, 合作對象",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "陳超明",
+        "RelatedPersonRole": "立法委員",
+        "RelationshipToTarget": "鐵鍊三兄弟",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "廖國棟",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "鐵鍊三兄弟",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "鄭朝方",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "王婉諭",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "選舉競爭者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "曾聖凱",
+        "RelatedPersonRole": "政治人物",
+        "RelationshipToTarget": "選舉競爭者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "彭莉惠",
+        "RelatedPersonRole": "學者",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "歐陽霆",
+        "RelatedPersonRole": "新竹縣議員",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "楊文科",
+        "RelatedPersonRole": "新竹縣長",
+        "RelationshipToTarget": "聲援對象",
+        "MentionFrequency": 2
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "鐵鍊三兄弟事件",
+        "EventDate": "2020",
+        "EventType": "爭議言行",
+        "EventLocation": "立法院",
+        "EventDescription": "林思銘與陳超明、廖國棟組成「鐵鍊三兄弟」。",
+        "InvolvedPoliticianIDs": ["TP022"]
+      },
+      {
+        "EventName": "修惡選罷法",
+        "EventDate": "2025-05",
+        "EventType": "法案審查",
+        "EventLocation": "立法院",
+        "EventDescription": "林思銘擔任黨團書記長，主導修惡選罷法等爭議法案。",
+        "InvolvedPoliticianIDs": ["TP022"]
+      },
+      {
+        "EventName": "大砍客委會預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "林思銘提案將客委會宣傳預算「1.3 億全數刪除」。",
+        "InvolvedPoliticianIDs": ["TP022"]
+      },
+      {
+        "EventName": "凍結科學園區預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "林思銘支持凍結新竹科學園區管理局預算。",
+        "InvolvedPoliticianIDs": ["TP022"]
+      },
+      {
+        "EventName": "連署中配入籍",
+        "EventDate": "2025",
+        "EventType": "政治立場",
+        "EventLocation": "立法院",
+        "EventDescription": "林思銘連署同意中配 4 年入籍。",
+        "InvolvedPoliticianIDs": ["TP022"]
+      },
+      {
+        "EventName": "交通違規欠稅爭議",
+        "EventDate": "2025",
+        "EventType": "道德爭議",
+        "EventLocation": "新竹縣",
+        "EventDescription": "林思銘被爆交通違規多次、欠稅。",
+        "InvolvedPoliticianIDs": ["TP022"]
+      },
+      {
+        "EventName": "聲援楊文科天坑案",
+        "EventDate": "2024",
+        "EventType": "政治立場",
+        "EventLocation": "新竹縣",
+        "EventDescription": "林思銘聲援涉貪遭約談的新竹縣長楊文科。",
+        "InvolvedPoliticianIDs": ["TP022"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-023",
+    "Title": "2025 大罷免》為什麼要罷免廖先翔？",
+    "Source": "沃草",
+    "Author": "何宇軒",
+    "DatePublished": "2024-05-22",
+    "DocumentType": "新聞報導",
+    "Topic": ["罷免", "廖先翔", "土地爭議", "白蝦", "新北市"],
+    "CoverageArea": "地方",
+    "SpecificLocation": "新北市",
+    "TargetPoliticians": [
+      {
+        "TargetPoliticianID": "TP023",
+        "TargetPoliticianName": "廖先翔",
+        "TargetPoliticianParty": "中國國民黨",
+        "TargetPoliticianDistrict": "新北市",
+        "TargetPoliticianOffice": "立法委員",
+        "ReasonForRecall": ["家族土地爭議", "刪減外交部預算（白蝦事件）", "凍結國防預算", "刪減社宅預算", "精準弱化國防"],
+        "ReasonCategory": ["家庭爭議", "政策失當", "政治立場", "道德爭議"],
+        "MentionFrequency": 26,
+        "Sentiment": "負面",
+        "RelatedLegislation": ["中央政府總預算"]
+      }
+    ],
+    "RelatedPeople": [
+      {
+        "RelatedPersonName": "李慶華",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前任",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "黃國昌",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前任",
+        "MentionFrequency": 2
+      },
+      {
+        "RelatedPersonName": "賴品妤",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "前選舉對手",
+        "MentionFrequency": 4
+      },
+      {
+        "RelatedPersonName": "賴勁麟",
+        "RelatedPersonRole": "前立法委員",
+        "RelationshipToTarget": "相關人物",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "廖正良",
+        "RelatedPersonRole": "父親, 新北市議員",
+        "RelationshipToTarget": "父親",
+        "MentionFrequency": 3
+      },
+      {
+        "RelatedPersonName": "張錦豪",
+        "RelatedPersonRole": "新北市議員",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 1
+      },
+      {
+        "RelatedPersonName": "林亮君",
+        "RelatedPersonRole": "台北市議員",
+        "RelationshipToTarget": "批評者",
+        "MentionFrequency": 1
+      }
+    ],
+    "Events": [
+      {
+        "EventName": "家族土地爭議",
+        "EventDate": "2024",
+        "EventType": "道德爭議",
+        "EventLocation": "新北市",
+        "EventDescription": "廖先翔家族被爆多項土地爭議，包括違建、侵佔國土等。",
+        "InvolvedPoliticianIDs": ["TP023"]
+      },
+      {
+        "EventName": "刪減外交部預算（白蝦事件）",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "廖先翔提案刪減外交部預算，理由為宏都拉斯白蝦事件。",
+        "InvolvedPoliticianIDs": ["TP023"]
+      },
+      {
+        "EventName": "凍結國防預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "立法院",
+        "EventDescription": "廖先翔簽署凍結新型步槍、直升機零件等多項國防預算提案。",
+        "InvolvedPoliticianIDs": ["TP023"]
+      },
+      {
+        "EventName": "刪減白匏湖社宅預算",
+        "EventDate": "2025",
+        "EventType": "預算審查",
+        "EventLocation": "新北市",
+        "EventDescription": "廖先翔提案刪減白匏湖社宅預算。",
+        "InvolvedPoliticianIDs": ["TP023"]
+      },
+      {
+        "EventName": "控告賴品妤",
+        "EventDate": "2024",
+        "EventType": "法律訴訟",
+        "EventLocation": "新北市",
+        "EventDescription": "廖先翔控告賴品妤違反選罷法，後賴品妤獲不起訴。",
+        "InvolvedPoliticianIDs": ["TP023"]
+      }
+    ]
+  },
+  {
+    "DocumentID": "BA2025-024",
+    "Title": "2025 大罷免》為什麼要罷免盧縣一？",
+    "Source": "沃草",
+    "Author": "何宇軒",
+    "DatePublished": "N/A",
+    "DocumentType": "N/A",
+    "Topic": [],
+    "CoverageArea": "N/A",
+    "SpecificLocation": "N/A",
+    "TargetPoliticians": [],
+    "RelatedPeople": [],
+    "Events": []
+  },
+  {
+    "DocumentID": "BA2025-025",
+    "Title": "2025 大罷免》為什麼要罷免黃仁？",
+    "Source": "沃草",
+    "Author": "何宇軒",
+    "DatePublished": "N/A",
+    "DocumentType": "N/A",
+    "Topic": [],
+    "CoverageArea": "N/A",
+    "SpecificLocation": "N/A",
+    "TargetPoliticians": [],
+    "RelatedPeople": [],
+    "Events": []
+  },
+  {
+    "DocumentID": "BA2025-026",
+    "Title": "2025 大罷免》為什麼要罷免翁曉玲？",
+    "Source": "沃草",
+    "Author": "何宇軒",
+    "DatePublished": "N/A",
+    "DocumentType": "N/A",
+    "Topic": [],
+    "CoverageArea": "N/A",
+    "SpecificLocation": "N/A",
+    "TargetPoliticians": [],
+    "RelatedPeople": [],
+    "Events": []
+  },
+  {
+    "DocumentID": "BA2025-027",
+    "Title": "2025 大罷免》為什麼要罷免林倩綺？",
+    "Source": "沃草",
+    "Author": "何宇軒",
+    "DatePublished": "N/A",
+    "DocumentType": "N/A",
+    "Topic": [],
+    "CoverageArea": "N/A",
+    "SpecificLocation": "N/A",
+    "TargetPoliticians": [],
+    "RelatedPeople": [],
+    "Events": []
+  }
+]
